@@ -1,7 +1,7 @@
 # Hi, I'm the Founder of Elevate Enterprises 👋
 
 🚀 I'm building **Elevate Enterprises** — a digital agency helping businesses grow online through:
-- 🌐 WRecruitment Agency
+- 🌐 Recruitment Agency
 - 🤖 AI Agents for Automation & Productivity
 - 📈 Digital & Social Media Marketing
 
